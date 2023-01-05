@@ -41,4 +41,3 @@ I then created a loop that would run the above loops on every worksheet (that is
 #### 2020
 
 ![2020](https://github.com/BrendaWardhaugh/VBA_challenge/blob/main/Images/2020.png)
-
