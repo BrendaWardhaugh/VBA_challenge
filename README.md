@@ -2,7 +2,7 @@
 VBA_ challenge. Module 2, Assignment 2
 
 Please see the attached Excel document and VBA script document for additional information. 
-Screenshots can be found in the Images folder. (to make it easier to see I only captured the first 20 rows for each year, to see more of the data please view the Excel document).
+Screenshots can be found in the Images folder. (to make it easier to see, I only captured the first 20 rows for each year, to see more of the data please view the Excel document).
 
 
 ## Multiple Year Stock Data
