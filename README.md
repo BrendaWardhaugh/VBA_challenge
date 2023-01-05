@@ -19,13 +19,16 @@ I created a script that loops through all the stocks for one year and outputs th
 
 -The total stock volume of the stock. 
 
+I then added headers(column names) for each of these new columns.
+
 ![part 1](https://user-images.githubusercontent.com/120147552/210837701-63289e13-ed97-4b86-b3d6-58635cd27424.png)
 
 Then I added functionality to my scrip to return the stocks with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". 
+I added column and row names to make this information easier to identify.
 
 ![part 1](https://user-images.githubusercontent.com/120147552/210837717-04a0de07-ac1b-4714-a104-6212412830d9.png)
 
-I then created a loop that would run the above loops on every worksheet (that is, every year) at once.
+I then created a loop that would run the above loops on every worksheet (that is, every year) at once; as seen below:
 
 #### 2018
 
