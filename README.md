@@ -44,6 +44,7 @@ I then created a loop that would run the above loops on every worksheet (that is
 
 
 ## VBA Script
+#### Please see VBA Script file attached for clairification and to better see the order the script/loops appear in.
 
 For the first loop (to get the ticker symbol, yearly change, percentage change and total volume): 
 
