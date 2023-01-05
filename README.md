@@ -41,3 +41,43 @@ I then created a loop that would run the above loops on every worksheet (that is
 #### 2020
 
 ![2020](https://github.com/BrendaWardhaugh/VBA_challenge/blob/main/Images/2020.png)
+
+
+## VBA Script
+
+For the first loop (to get the ticker symbol, yearly change, percentage change and total volume): 
+
+I labled my "Headers" and formated the cells accordingly:
+
+![script1](https://user-images.githubusercontent.com/120147552/210845003-ceec3741-4705-436f-8066-2c8b0638791c.png)
+
+![script5](https://user-images.githubusercontent.com/120147552/210845691-a2ec4511-e326-42f2-851a-ad805086b1ef.png)
+
+I identified my variables. 
+
+![script 1](https://user-images.githubusercontent.com/120147552/210844205-6ff20191-fbdb-4b93-ab86-45017b3a7a8c.png)
+
+Then ran the first loop:
+
+![script 2](https://user-images.githubusercontent.com/120147552/210844701-d88619f6-8eaf-4dc3-8224-37f63b95e222.png)
+
+![script7](https://user-images.githubusercontent.com/120147552/210846384-308c0852-7394-43a2-abaf-85c436acb2d9.png)
+
+Next I identified my variable and looped through to get the return the stocks with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume":
+
+![script8](https://user-images.githubusercontent.com/120147552/210846845-73dd7181-6773-4b00-bf42-dc812f6bc210.png)
+
+![script3](https://user-images.githubusercontent.com/120147552/210845229-5a16b38a-9e59-4aa6-bcc3-67a6219ed11f.png)
+
+And placed them in the appropiate location in the sheet with correct format:
+
+![script4](https://user-images.githubusercontent.com/120147552/210845515-a8472897-1d6d-4ab6-8080-a63f16082c34.png)
+
+Next I colour coded the Yearly Change column according to positive change in green and negative change in red:
+
+![script6](https://user-images.githubusercontent.com/120147552/210846234-870dc1b7-0d3c-4ce2-b5c4-4bc434aeec61.png)
+
+Finally, I made it so that it would loop through all of the worksheets by placing my other script inside of this loop:
+
+![script9](https://user-images.githubusercontent.com/120147552/210847244-edf0861a-0cb0-4e63-a7c0-a9a86f253f2a.png)
+
