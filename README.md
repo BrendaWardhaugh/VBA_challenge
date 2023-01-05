@@ -63,7 +63,7 @@ Then ran the first loop:
 
 ![script7](https://user-images.githubusercontent.com/120147552/210846384-308c0852-7394-43a2-abaf-85c436acb2d9.png)
 
-Next I identified my variable and looped through to get the return the stocks with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume":
+Next I identified my variables and looped through to get the return the stocks with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume":
 
 ![script8](https://user-images.githubusercontent.com/120147552/210846845-73dd7181-6773-4b00-bf42-dc812f6bc210.png)
 
