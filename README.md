@@ -77,7 +77,7 @@ Next I colour coded the Yearly Change column according to positive change in gre
 
 ![script6](https://user-images.githubusercontent.com/120147552/210846234-870dc1b7-0d3c-4ce2-b5c4-4bc434aeec61.png)
 
-Finally, I made it so that it would loop through all of the worksheets by placing my other script inside of this loop:
+Finally, I made it so that it would loop through all of the worksheets by placing my other loops inside of this loop:
 
 ![script9](https://user-images.githubusercontent.com/120147552/210847244-edf0861a-0cb0-4e63-a7c0-a9a86f253f2a.png)
 
