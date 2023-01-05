@@ -27,9 +27,15 @@ Then I added functionality to my scrip to return the stocks with the "Greatest %
 
 I then created a loop that would run the above loops on every worksheet (that is, every year) at once.
 
+#### 2018
+
 ![2018](https://github.com/BrendaWardhaugh/VBA_challenge/blob/main/Images/2018.png)
 
+#### 2019
+
 ![2019](https://github.com/BrendaWardhaugh/VBA_challenge/blob/main/Images/2019.png)
+
+#### 2020
 
 ![2020](https://github.com/BrendaWardhaugh/VBA_challenge/blob/main/Images/2020.png)
 
